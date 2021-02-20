@@ -1,0 +1,6 @@
+struct CHUNK
+{
+	flag; 
+	name;   +8
+	type[20];    +16
+}

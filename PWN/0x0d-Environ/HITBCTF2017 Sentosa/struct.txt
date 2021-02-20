@@ -1,0 +1,12 @@
+struct{
+int length
+name
+int check
+int price
+int area
+int capactity
+}
+
+
+0x7fffcbb7d958
+0x7fffcbb7d828
